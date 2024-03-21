@@ -17,7 +17,7 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 8. **Which category has the most movies on Netflix?**
 9. **Which category has the most TV shows on Netflix?**
 
-![](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Movies%20vs%20TV%20Shows.png)
+![](Image/Movies_vs_TV_Shows.png)
 ![](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Top%2010%20Countries.png)
 ![](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Top%2010%20Listed%20Geners%20for%20TV%20Shows.png)
 
