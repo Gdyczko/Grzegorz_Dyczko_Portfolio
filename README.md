@@ -1,5 +1,3 @@
-# Grzegorz Dyczko Portfolio
-
 My example data analyst projects
 
 ## [Project 1: Netflix-Movies-and-TV-Shows](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/tree/main)
