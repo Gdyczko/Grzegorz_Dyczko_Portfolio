@@ -18,14 +18,14 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 9. **Which category has the most TV shows on Netflix?**
 
 ![](Image/Movies_vs_TV_Shows.png)
-![](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Top%2010%20Countries.png)
-![](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Top%2010%20Listed%20Geners%20for%20TV%20Shows.png)
+![](Image/Top_10_Countries.png)
+![](Image/Top_10_Listed_Geners_for_TV_Shows.png)
 
 ## [Project 2: Stroke Data Analysis](https://github.com/Gdyczko/Stroke-Data_Analysis)
 * The acquired dataset underwent analysis to determine whether there are any factors influencing the increased risk of stroke.
 * Additionally, the BMI index among study participants was analyzed to check if the place of residence or type of work has an impact on this indicator.
 
-![](https://github.com/Gdyczko/Stroke-Data_Analysis/blob/main/Corelation%20between%20all%20data.png)
+![](Image/Corelation_between_all_data.png)
 
 ## [Project 3: Create Cinema Database](https://github.com/Gdyczko/Create_Cinema_Database)
 
