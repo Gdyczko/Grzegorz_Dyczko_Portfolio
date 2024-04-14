@@ -52,6 +52,7 @@ In this project, I am attempting to create a machine learning model capable of r
 * I load the data into the machine learning model. In this case I used Decision Tree Classifier
 
 * Finally, we check the level of prediction accuracy.
+
 ```python
 # Import library to split data
 from sklearn.model_selection import train_test_split
@@ -75,6 +76,7 @@ from sklearn.metrics import accuracy_score
 score = accuracy_score(y_test, y_predicted)
 score
 ```
+
 The score is above 96% 
 
 # [Project 5: SQL + Python - Console and Gaming sales](https://github.com/Gdyczko/Home_console_and_gaming_sales)
@@ -103,6 +105,7 @@ Detailed information regarding data modifications has been included in the [Data
 ## Top 10 the best sold consoles
 The following query, after execution, will display a table of the top 10 consoles sold the most. The columns will contain information about the console name and the number of units sold in millions.\
 This query was implemented in Python to create a chart displayed below the query.
+
 ```sql
 SELECT TOP 10 
     Console_Name,
@@ -112,6 +115,7 @@ FROM
 ORDER BY 
     Units_sold_in_million DESC
 ```
+
 ![Top_Consoles](Image/Top_10_the_best_sold_consoles.png)
 
 From the analyses abowe, we can infer that:
@@ -124,6 +128,7 @@ From the analyses abowe, we can infer that:
 ## Top 10 the best sold games
 The following query, after execution, will display a table of the top 10 games sold the most. The columns will contain information about the games name and the number of units sold in millions.\
 This query was implemented in Python to create a chart displayed below the query.
+
 ```sql
 SELECT TOP 10 
     Game_Name,
@@ -133,7 +138,9 @@ FROM
 ORDER BY 
     Units_m DESC
 ```
+
 ![Top_Games](Image/Top_10_the_best_sold_games.png) 
+
 ```sql
 SELECT TOP 10
     Game_Name,
@@ -144,6 +151,8 @@ FROM
 ORDER BY
     Units_m DESC
 ```
+
+
 | Game Name                          | System Full                      | Units (millions) |
 |------------------------------------|----------------------------------|------------------|
 | Wii Sports                         | Wii                              | 82.9             |
