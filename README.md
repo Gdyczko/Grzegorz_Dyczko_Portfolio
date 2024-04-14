@@ -88,7 +88,7 @@ In the console data database, there is information about: console names, their t
 A SQL database was created based on two CSV files. The CSV files have been modified in Python for better data analysis.\
 Detailed information regarding data modifications has been included in the [Data](Data) folder, while information regarding the creation of the database and tables, as well as loading the database, can be found in the [MSSQL_create_database](MSSQL_create_database) folder.
 
-## :mag: The dataset was analyzed in terms of:
+## The dataset was analyzed in terms of:
 1. **Top 10 Sold Consoles**
 2. **Top 10 Sold Games**
 3. **Analysis of Console Popularity by Generation**
