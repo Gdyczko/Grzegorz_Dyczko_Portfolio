@@ -77,7 +77,7 @@ score
 ```
 The score is above 96% 
 
-# [Project 5: SQL + Python - Console and Gaming sales](https://github.com/Gdyczko/Home_console_and_gaming_sales?tab=readme-ov-file#mag-the-dataset-was-analyzed-in-terms-of)
+# [Project 5: SQL + Python - Console and Gaming sales](https://github.com/Gdyczko/Home_console_and_gaming_sales)
 The database contains information about games and consoles.\
 In the games database, there is information such as: game titles, the system they were created for, the number of units sold, the publisher, the game developer, release date, and a link to an image.\
 In the console data database, there is information about: console names, their type, generation, production year, end of production date, number of consoles sold, additional information about the console, or links to gifs.
