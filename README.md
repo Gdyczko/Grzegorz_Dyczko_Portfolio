@@ -52,7 +52,7 @@ In this project, I am attempting to create a machine learning model capable of r
 * I load the data into the machine learning model. In this case I used Decision Tree Classifier
 
 * Finally, we check the level of prediction accuracy.
-```py
+```python
 # Import library to split data
 from sklearn.model_selection import train_test_split
 
